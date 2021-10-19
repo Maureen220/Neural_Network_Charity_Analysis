@@ -19,12 +19,12 @@ This project was an effort to test a Neural Network Model on data containing 34,
 
 ### ***Compiling, Training, and Evaluating the Model***
 
-    * The model that did the best in optimization had three hidden layers with descending amounts of neurons as 10, 6, and 4. 
-    I used relu activation on each hidden layer and sigmoid on the output layer. 
+    * The model that did the best in optimization had three hidden layers with descending amounts of neurons 
+    as 10, 6, and 4. I used relu activation on each hidden layer and sigmoid on the output layer. 
     * I was not able to achieve the target performance of 75% and clocked out at 73% max. 
-    * I attempted to add more neurons and test different activations and layers. However, the model had no affect or change on 
-    more layers and was in danger of overfitting through the use of too many neurons. Different activation functions also had
-    little or no effect on the accuracy. 
+    * I attempted to add more neurons and test different activations and layers. However, the model 
+    had no affect or change on more layers and was in danger of overfitting through the use of too 
+    many neurons. Different activation functions also had little or no effect on the accuracy. 
 
 ![optimization_3.png](Resources/optimization_3.png)  
 
